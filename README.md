@@ -31,5 +31,8 @@ O CursorPositionLogger é um aplicativo em C# que registra a posição atual do 
 ## Preview
 
 ![image](https://github.com/Igthz/CursorPositionLogger/assets/83485103/4b75a9fe-95e4-4a9f-aa33-ea58592c34fd)
+![image](https://github.com/Igthz/CursorPositionLogger/assets/83485103/acd6728c-00c1-474e-8122-1b0a81cae8d7)
+![image](https://github.com/Igthz/CursorPositionLogger/assets/83485103/1c2eaf85-41db-4cbb-a899-5f5e8f5a0c08)
+
 
 
